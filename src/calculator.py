@@ -5,7 +5,7 @@ def fun1(x, y):
         x (int/float): First number.
         y (int/float): Second number.
     Returns:
-        int/float: Sum of x and y.
+        int/
     Raises:
         ValueError: If x or y is not a number.
     """
